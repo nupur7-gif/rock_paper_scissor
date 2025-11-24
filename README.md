@@ -28,10 +28,6 @@ Beginner-friendly project
 
 Clone the repository:
 
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
-(Replace the URL with your actual GitHub repo.)
-
 
 ▶️ Run the Game
 
